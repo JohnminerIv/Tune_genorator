@@ -14,6 +14,6 @@ that you'll be able to use soon.
 Visit this link https://github.com/JohnminerIv/Tune_genorator/blob/master/model_notebook.ipynb
 to see how the model(s) were created.
 
-Listen here to a sample here  ![](output.wav)
+Listen here to a sample here  !audio[sample](output.wav)
 
-Watch a demonstration here ![](noise_genration-2.mov)
+Watch a demonstration here !video[demonstration](noise_genration-2.mov)
