@@ -1,6 +1,9 @@
-# Focus Tunes (In progress)
+# Focus Tunes
 
 ## Use this to generate music on the go.
+
+This is no-where near ready for production and I'm going to keep working on it at some time.
+
 
 The goal of this project was to generate music indefinitely from the initial starting
 point of a small clip of sound. Initialy I did a lot of reasearch considering the
